@@ -180,5 +180,12 @@ footer{
     padding: 1rem 0;
     background-color: var(--bol-secondary);
     color: var(--bol-light);
+    
+
+
+.row{
+    display: flex;
+    justify-content: space-between;
+}
 
 }
